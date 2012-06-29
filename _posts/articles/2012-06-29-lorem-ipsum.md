@@ -13,10 +13,4 @@ Information for individuals
 
 There is more information for users of our service on [our main website](http://jubileechurchcoventry.org/jma).
 
-Information for team members
-----------------------------
-
-* Our email system is here: [http://mail.jubileemoneyadvice.org/](http://mail.jubileemoneyadvice.org/)
-* Our documents system is here: [http://docs.jubileemoneyadvice.org/](http://docs.jubileemoneyadvice.org/)
-
 
